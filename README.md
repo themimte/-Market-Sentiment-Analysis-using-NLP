@@ -1,6 +1,6 @@
-# Market Sentimente Analysis using NLP
+# Market Sentiment Analysis using NLP
 
-In this project, I tried to implement specific algorithms such as SESTM(Sentiment Extraction via Screening and Topic Modeling). For Topic Modeling I used Latent Dirichlet Allocation. In the second phase, I am trying to exploring deep neural networks.
+In this project, I tried to implement specific algorithms such as SESTM(Sentiment Extraction via Screening and Topic Modeling). For Topic Modeling I used Latent Dirichlet Allocation. In the second phase, I am trying to exploit deep neural networks.
 
 ## Getting started
 
